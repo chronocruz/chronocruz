@@ -3,12 +3,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chronocruz&label=Profile%20views&color=0e75b6&style=flat" alt="chronocruz" /> </p>
 
+<pre>
 ┌──┤ About Me ├─────────▰▰▰<br>
+|
 ├─▣ Cyber Security Researcher<br>
 ├─▣ Ex-Military R&D Personnel<br>
 ├─▣ Gamer and Developer<br>
+|
 └───────────────────────────────▰▰▰<br>
-
+</pre>
 ┌──┤ PROJECTS ├───────▰▰▰<br>
 | <br>
 ├─◈ <a href="https://github.com/chronocruz/Chronocruz-Translator" target = "blank">Chronocruz Translator</a><br>
