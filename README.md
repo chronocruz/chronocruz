@@ -21,10 +21,8 @@
 
 ┌──┤ Connect With Me ├──────────▰▰▰>
 |
-├─◈ <a href="https://twitter.com/chronocruz_exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chronocruz_exe" height="20" width="30" /></a>
-├─◈ <a href="https://www.youtube.com/channel/UC9_zDw2x7WBM32VSwoiALvg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc9_zdw2x7wbm32vswoialvg" height="20" width="30" /></a>
-├─◈ <a href="https://instagram.com/chronocruz.exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chronocruz.exe" height="20" width="30" /></a>
-├─◈ <a href="https://linkedin.com/in/chronocruz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chronocruz" height="20" width="30" /></a>
+├─◈ <a href="https://twitter.com/chronocruz_exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chronocruz_exe" height="20" width="30" /></a>		├─◈ <a href="https://www.youtube.com/channel/UC9_zDw2x7WBM32VSwoiALvg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc9_zdw2x7wbm32vswoialvg" height="20" width="30" /></a>
+├─◈ <a href="https://instagram.com/chronocruz.exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chronocruz.exe" height="20" width="30" /></a>		├─◈ <a href="https://linkedin.com/in/chronocruz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chronocruz" height="20" width="30" /></a>
 |
 └───────────────────────────────────▰▰▰
 
