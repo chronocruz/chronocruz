@@ -14,8 +14,8 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 |
-├─◈ <a href="https://github.com/chronocruz/Chronocruz-Translator" target = "blank">Chronocruz Translator</a><br>
-├─◈ <a href="https://github.com/chronocruz/PUBG-ESP" target = "blank">PUBG ESP</a><br>
+├─◈ <a href="https://github.com/chronocruz/Chronocruz-Translator" target = "blank">Chronocruz Translator</a>
+├─◈ <a href="https://github.com/chronocruz/PUBG-ESP" target = "blank">PUBG ESP</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -38,8 +38,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//in/chronocruz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/in/chronocruz/" height="30" width="40" /></a>
-<a href="https://instagram.com/chronocruz.exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chronocruz.exe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in//in/chronocruz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/in/chronocruz/" height="25" width="35" /></a>
+<a href="https://instagram.com/chronocruz.exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chronocruz.exe" height="25" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
