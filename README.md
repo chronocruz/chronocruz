@@ -1,7 +1,7 @@
 <h1 align="center">Kartikey Sharma (a.k.a Chronocruz.exe)</h1>
 <h3 align="center">Technocrat and passionate Cyber Security Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chronocruz&label=Profile%20views&color=0e75b6&style=flat" alt="chronocruz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chronocruz&label=Profile%20views&color=0e75b6&style=flat" alt="chronocruz" /> </p>
 
 ┌──┤ About Me ├─────────▰▰▰<br>
 ├─▣ Cyber Security Researcher<br>
@@ -11,8 +11,8 @@
 
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ Seeker
-├─◈ FinalRecon
+├─◈ <a href="https://github.com/chronocruz/Chronocruz-Translator" target = "blank">Chronocruz Translator</a>
+├─◈ <a href="https://github.com/chronocruz/PUBG-ESP" target = "blank">PUBG ESP</a>
 ├─◈ pwnedOrNot
 ├─◈ KillCast
 ├─◈ FlashSploit
