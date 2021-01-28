@@ -9,12 +9,12 @@
 ├─▣ Gamer and Developer<br>
 └───────────────────────────────▰▰▰<br>
 
-┌──┤ PROJECTS ├───────▰▰▰
-│
-├─◈ <br><a href="https://github.com/chronocruz/Chronocruz-Translator" target = "blank">Chronocruz Translator</a>
-├─◈ <br><a href="https://github.com/chronocruz/PUBG-ESP" target = "blank">PUBG ESP</a>
-│
-└───────────────────────────────▰▰▰
+┌──┤ PROJECTS ├───────▰▰▰<br>
+│<br>
+├─◈ <a href="https://github.com/chronocruz/Chronocruz-Translator" target = "blank">Chronocruz Translator</a><br>
+├─◈ <a href="https://github.com/chronocruz/PUBG-ESP" target = "blank">PUBG ESP</a><br>
+│<br>
+└───────────────────────────────▰▰▰<br>
 
 ┌──┤ Connect With Me ├─────────▰▰▰<br>
 ├─◈ <a href="https://twitter.com/chronocruz_exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chronocruz_exe" height="30" width="40" /></a><br>
