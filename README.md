@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kartikey Sharma (a.k.a Chronocruz.exe)</h1>
-<h3 align="center">A Technocrat and passionate Cyber Security Enthusiast</h3>
+<h1 align="center">Kartikey Sharma (a.k.a Chronocruz.exe)</h1>
+<h3 align="center">Technocrat and passionate Cyber Security Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chronocruz&label=Profile%20views&color=0e75b6&style=flat" alt="chronocruz" /> </p>
 
@@ -27,7 +27,7 @@
 ├─◈ <a href="https://www.youtube.com/channel/UC9_zDw2x7WBM32VSwoiALvg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc9_zdw2x7wbm32vswoialvg" height="30" width="40" /></a><br>
 ├─◈ <a href="https://instagram.com/chronocruz.exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chronocruz.exe" height="30" width="40" /></a><br>
 ├─◈ <a href="https://linkedin.com/in/chronocruz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chronocruz" height="30" width="40" /></a><br>
-│
+│<br>
 └───────────────────────────────▰▰▰
 - 🔭 I’m currently working on **my skills**
 
