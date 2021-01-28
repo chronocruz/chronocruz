@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chronocruz&label=Profile%20views&color=0e75b6&style=flat" alt="chronocruz" /> </p>
 
 ┌──┤ About Me ├─────────▰▰▰
-│<a></a>
+│<br>
 ├─▣ Cyber Security Researcher
 ├─▣ Ex-Military R&D Personnel
 ├─▣ Gamer and Developer
