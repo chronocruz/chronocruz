@@ -10,10 +10,10 @@
 └───────────────────────────────▰▰▰<br>
 
 ┌──┤ PROJECTS ├───────▰▰▰<br>
-│<br>
+| <br>
 ├─◈ <a href="https://github.com/chronocruz/Chronocruz-Translator" target = "blank">Chronocruz Translator</a><br>
 ├─◈ <a href="https://github.com/chronocruz/PUBG-ESP" target = "blank">PUBG ESP</a><br>
-│<br>
+│ <br>
 └───────────────────────────────▰▰▰<br>
 
 ┌──┤ Connect With Me ├─────────▰▰▰<br>
