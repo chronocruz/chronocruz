@@ -4,27 +4,28 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chronocruz&label=Profile%20views&color=0e75b6&style=flat" alt="chronocruz" /> </p>
 
 <pre>
-┌──┤ About Me ├─────────▰▰▰<br>
+┌──┤ About Me ├─────────▰▰▰>
 |
-├─▣ Cyber Security Researcher<br>
-├─▣ Ex-Military R&D Personnel<br>
-├─▣ Gamer and Developer<br>
+├─▣ Cyber Security Researcher
+├─▣ Ex-Military R&D Personnel
+├─▣ Gamer and Developer
 |
-└───────────────────────────────▰▰▰<br>
-</pre>
-┌──┤ PROJECTS ├───────▰▰▰<br>
-| <br>
+└───────────────────────────────▰▰▰
+
+┌──┤ PROJECTS ├───────▰▰▰
+|
 ├─◈ <a href="https://github.com/chronocruz/Chronocruz-Translator" target = "blank">Chronocruz Translator</a><br>
 ├─◈ <a href="https://github.com/chronocruz/PUBG-ESP" target = "blank">PUBG ESP</a><br>
-│ <br>
-└───────────────────────────────▰▰▰<br>
-
-┌──┤ Connect With Me ├─────────▰▰▰<br>
-├─◈ <a href="https://twitter.com/chronocruz_exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chronocruz_exe" height="30" width="40" /></a><br>
-├─◈ <a href="https://www.youtube.com/channel/UC9_zDw2x7WBM32VSwoiALvg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc9_zdw2x7wbm32vswoialvg" height="30" width="40" /></a><br>
-├─◈ <a href="https://instagram.com/chronocruz.exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chronocruz.exe" height="30" width="40" /></a><br>
-├─◈ <a href="https://linkedin.com/in/chronocruz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chronocruz" height="30" width="40" /></a><br>
+│
 └───────────────────────────────▰▰▰
+
+┌──┤ Connect With Me ├─────────▰▰▰
+├─◈ <a href="https://twitter.com/chronocruz_exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chronocruz_exe" height="30" width="40" /></a>
+├─◈ <a href="https://www.youtube.com/channel/UC9_zDw2x7WBM32VSwoiALvg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc9_zdw2x7wbm32vswoialvg" height="30" width="40" /></a>
+├─◈ <a href="https://instagram.com/chronocruz.exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chronocruz.exe" height="30" width="40" /></a>
+├─◈ <a href="https://linkedin.com/in/chronocruz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chronocruz" height="30" width="40" /></a>
+└───────────────────────────────▰▰▰
+</pre>
 - 🔭 I’m currently working on **my skills**
 
 - 🌱 I’m currently learning **Penetration testing and exploit discovery**
