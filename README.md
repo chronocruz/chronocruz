@@ -3,6 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chronocruz&label=Profile%20views&color=0e75b6&style=flat" alt="chronocruz" /> </p>
 
+├─◈ <a href="https://youtu.be/aKJj6XlF5OA" target = "blank">Tenable CTF | Pwntown Walkthrough</a>
+├─◈ <a href="https://youtu.be/9QUKGjAKFP4" target = "blank">Tenable CTF | Play Me Walkthrough</a>
+
 <pre>
 ┌──┤ About Me ├─────────────────▰▰▰>
 │
