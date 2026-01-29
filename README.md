@@ -19,7 +19,7 @@
 
 ┌──┤ PROJECTS ├─────────────────▰▰▰>
 │
-├─◈ <a href="https://github.com/chronocruz/Chronocruz-Bio-Dex" target = "blank">Chronocruz-Bio-Dex</a>
+├─◈ <a href="https://chronocruz.github.io/Chronocruz-Bio-Dex" target = "blank">Chronocruz-Bio-Dex</a>
 ├─◈ <a href="https://github.com/chronocruz/Chronocruz-Translator" target = "blank">Chronocruz Translator</a>
 ├─◈ <a href="https://github.com/chronocruz/PUBG-ESP" target = "blank">PUBG ESP</a>
 │
